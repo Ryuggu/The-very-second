@@ -9,3 +9,5 @@
 + How to pull
 + How to collaborate
 + How to do stuff in Atom and GitHub
+
+nomnom
